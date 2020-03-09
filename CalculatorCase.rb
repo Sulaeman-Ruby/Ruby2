@@ -75,8 +75,6 @@ class Choice
 
                 puts "\nHasil Yang Didapatkan #{nilai}\n"
 
-                $nilai = nilai
-
             end
     end
 
